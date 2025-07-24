@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zenithor's Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, I’m Zenithor</h1>
+  <p>Engineer | Musician | Robot whisperer</p>
+  <h2>Projects</h2>
+  <ul>
+    <li>FTC Robotics – Team 24881 'Quattuor'</li>
+    <li>CAD: Designed drivetrain for XYZ robot</li>
+    <li>Dombyra performances</li>
+  </ul>
+</body>
+</html>
